@@ -13,6 +13,6 @@ DatasetThe dataset used for this dashboard is a historical record of sales from 
 
 ### Screenshots
 
-![Dashboard screenshot 1][screenshots/1.png]
-![Dashboard screenshot 2][screenshots/2.png]
+![Dashboard screenshot 1](https://github.com/ZakariaeBAHARI/supermarket-sales-dashboard/blob/main/screenshots/1.png)
+![Dashboard screenshot 2](https://github.com/ZakariaeBAHARI/supermarket-sales-dashboard/blob/main/screenshots/2.png)
 
