@@ -3,7 +3,7 @@
 
 This dashboard provides insights into the sales data of a supermarket company with three branches (A, B, and C). It allows users to analyze sales by product category, customer type, gender, and day.
 
-DatasetThe dataset used for this dashboard is a historical record of sales from the three supermarket branches for the months of January, February, and March 2019.
+The dataset used for this dashboard is a historical record of sales from the three supermarket branches for the months of January, February, and March 2019.
 
 ### How to use the dashboard
 
